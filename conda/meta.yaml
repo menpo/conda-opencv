@@ -7,6 +7,9 @@ source:
   url: http://sourceforge.net/projects/opencvlibrary/files/opencv-unix/2.4.11/opencv-2.4.11.zip/download
   sha1: d6e3048416d42213c204f89b9dfe39742f9a708c
 
+build:
+  number: 1
+
 requirements:
   build:
    - cmake 3.3.0
